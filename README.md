@@ -50,3 +50,7 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754602&idx=2&sn=7d55e6
 
 图神经网络：
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754422&idx=4&sn=0dc881487f362322a875b4ce06e645f7&chksm=871a8908b06d001ef7386ccc752827c20711877a4a23d6a8318978095dd241d118257c607b22&scene=21#wechat_redirect
+
+# 2019_7_7 图深度学习
+
+https://github.com/DeepGraphLearning/LiteratureDL4Graph
