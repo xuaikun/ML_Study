@@ -54,3 +54,7 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754422&idx=4&sn=0dc881
 # 2019_7_7 图深度学习
 
 https://github.com/DeepGraphLearning/LiteratureDL4Graph
+
+莫凡机器学习：
+
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-06-save/
