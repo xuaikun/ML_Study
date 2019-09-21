@@ -1,4 +1,4 @@
-# ML_Study
+﻿# ML_Study
 learn ML from scikit-learn and tensorflow
 come on boy!
 
@@ -60,3 +60,7 @@ https://github.com/DeepGraphLearning/LiteratureDL4Graph
 https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-06-save/
 
 http://colah.github.io/  大佬的文章
+
+
+反向传播算法解释
+http://colah.github.io/posts/2015-08-Backprop/
